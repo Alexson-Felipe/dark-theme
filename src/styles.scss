@@ -28,6 +28,13 @@
   --text-body: #fff;
 }
 
+:root .dracula-theme {
+  --primary: #bd93f9;
+  --body: #282a36;
+  --text-menu: #f8f8f2;
+  --text-body: #f8f8f2;
+}
+
 body {
   background-color: var(--body);
 }
